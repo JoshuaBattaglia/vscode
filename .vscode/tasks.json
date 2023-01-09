@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/HelloWorld/HelloWorld.csproj",
+                "${workspaceFolder}/new/new.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/HelloWorld/HelloWorld.csproj",
+                "${workspaceFolder}/new/new.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/HelloWorld/HelloWorld.csproj"
+                "${workspaceFolder}/new/new.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

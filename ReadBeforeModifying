@@ -1,0 +1,21 @@
+Before you modify or run ANYTHING, Read The Comments Just In Case!!
+
+-- Data (Folders) --
+.devcontainer -- Hidden Folder
+.vscode -- Hidden Folder
+Extra/binx
+HelloWorld
+MainProgram
+test1
+
+Add Any Folder you want, but don't forget to add it to the list!
+
+___________________________________________________________________________________________
+How to make a new folder/directory:
+
+If you don't know how to make a new folder, (Which you probably do,) Make a new terminal or go into the one you're using right now, then type this:
+
+mkdir YourNameHere
+
+"YourNameHere" Is your name for your new folder.
+Put your files and other stuff in it.
